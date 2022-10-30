@@ -18,6 +18,7 @@ async function getCivilization(id) {
     return res.json();
 }
 
+/** 
 export async function generateStaticParams() {
     try {
         console.log("Prefetching clans to generate at build time");
@@ -30,3 +31,4 @@ export async function generateStaticParams() {
         return [];
     }
 }
+*/
