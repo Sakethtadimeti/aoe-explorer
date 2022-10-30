@@ -6,6 +6,8 @@ This repo powers a Visual [Overview of Age of empires](https://aoe-explorer.verc
 
 -   Next.js 13, React & React DOM
 -   Tailwind Css for Styling
+_   Uses https://age-of-empires-2-api.herokuapp.com/ to fetch data.
+
 
 # Local setup
 
